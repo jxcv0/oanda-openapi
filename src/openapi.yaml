@@ -402,7 +402,7 @@ components:
     DateTimeFormat:
       $ref: ./shared/helpers/DateTimeFormat.yaml
     IdSpecifier:
-      $ref: ./shared/helpers/IdSpecifier.yaml
+      $ref: ./shared/helpers/IDSpecifier.yaml
     NonableUnits:
       $ref: ./shared/helpers/NonableUnits.yaml
     Units:
